@@ -11,5 +11,5 @@ galaxy_info:
   categories:
     - system
 dependencies:
-  - name: IanTaylorFB.superlumic-node
+  - name: IanTaylorFB.superlumic-homebrew
     version: fbmaster
